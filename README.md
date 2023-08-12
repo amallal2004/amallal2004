@@ -1,6 +1,6 @@
 ![MasterHead](https://learn.temporal.io/assets/images/banner_python-0d345d125b6892840c54f7e1460c8a5a.png)
 <h1 align="center">Hi 👋, I'm Amal Lal</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">BTech Student | Python Enthusiast and Aspiring Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amallal2004&label=Profile%20views&color=0e75b6&style=flat" alt="amallal2004" /> </p>
