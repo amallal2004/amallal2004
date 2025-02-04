@@ -26,25 +26,58 @@ const amallal = {
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<br>GitHub
+</td>
+</tr>
+<tr>
+<td align="center" width="96"> 
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48" alt="HTML" />
+<br>HTML
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="48" height="48" alt="CSS" />
+<br>CSS
+</td>
+<td align="center"  width="96">
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center"  width="96">
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center"  width="96">
+<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+</tr>
+</table>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" /><br>
+  <em>Tools & Platforms</em>
+</div>
 
 </div>
 
@@ -58,8 +91,11 @@ const amallal = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amallal2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amallal2004&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amallal2004&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amallal2004&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amallal2004&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amallal2004&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amallal2004&theme=tokyonight" />
 </div>
 
 ## 🤝 Connect With Me
@@ -76,16 +112,17 @@ const amallal = {
   </a>
 </div>
 
-## 💡 Featured Projects
+## 💫 Coding Journey
 
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amallal2004&repo=your-repo-name&theme=tokyonight)](https://github.com/amallal2004/your-repo-name)
-
-</div>
+```text
+🌅 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   28.95%
+🌆 Daytime    108 commits    ████████░░░░░░░░░░░░░░░░░   32.92%
+🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   25.00%
+🌙 Night      43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13%
+```
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amallal2004&theme=tokyo-night" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amallal2004&theme=tokyo-night&hide_border=true" width="100%"/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
