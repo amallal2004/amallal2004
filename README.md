@@ -30,16 +30,16 @@ const amallal = {
 <table>
 <tr>
 <td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65dd-4c6f-b2bd-384a5ebff05c.png" alt="icon" width="65" height="65" />
 <br>C
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<br>JavaScript
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -130,5 +130,4 @@ const amallal = {
   <img src="https://komarev.com/ghpvc/?username=amallal2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<!-- Footer
