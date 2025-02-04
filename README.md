@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amallal&fontSize=80&fontAlignY=35&animation=tilt&stroke=000&strokeWidth=2" />
+  <img src="profile-banner.png" />
 </div>
 
 <div align="center">
