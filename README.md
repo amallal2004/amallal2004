@@ -38,7 +38,7 @@ const amallal = {
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65dd-4c6f-b2bd-384a5ebff05c.png" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 <br>C
 </td>
 <td align="center" width="96">
