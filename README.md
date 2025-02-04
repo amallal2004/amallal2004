@@ -1,94 +1,97 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="github-header-image.png" alt="banner" width="100%" />
-</p>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amallal&fontSize=80&fontAlignY=35&animation=tilt&stroke=000&strokeWidth=2" />
+</div>
 
-<!-- Introduction with Animated Emoji -->
-<h1 align="center">
-  Hi, I'm Amallal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h1>
-
-<p align="center">
-  <em>Passionate about full stack development and lifelong learning.</em>
-</p>
-
----
-
-## 💫 About Me
-- 🔧 **Currently Working on:** Small projects to solidify my fundamentals.
-- 🌱 **Learning:** Diving deep into full stack web development.
-- 💬 **Ask Me About:** Anything related to full stack development.
-- 🎓 **Fun Fact:** I’m a college student exploring the tech world.
-
----
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-## 🌐 Socials
-<p align="center">
-  <a href="https://instagram.com/aml_lal___" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Student+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+## 🚀 Quick Overview
+
+```javascript
+const amallal = {
+    role: "Full Stack Developer",
+    status: "Student",
+    code: ["JavaScript", "Python", "C", "HTML", "CSS"],
+    currentFocus: "Building web applications",
+    funFact: "I debug with console.log and pretend I meant to do that 🤷‍♂️"
+};
+```
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+## 🌱 Current Focus
+
+- Building robust full-stack applications
+- Exploring modern web development frameworks
+- Contributing to open-source projects
+- Improving UI/UX design skills
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amallal2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amallal2004&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
   <a href="https://linkedin.com/in/amallal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/aml_lal___" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://x.com/amallal2004" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-</p>
+</div>
 
----
+## 💡 Featured Projects
 
-## 🚀 Projects & Contributions
-> Here are a few projects I've worked on recently:
-- **Project One:** A brief description of what this project does.
-- **Project Two:** A brief description of what this project does.
-- **Project Three:** A brief description of what this project does.
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amallal2004&repo=your-repo-name&theme=tokyonight)](https://github.com/amallal2004/your-repo-name)
 
----
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amallal2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <!-- Temporarily removed streak stats until the service is stable
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amallal2004&theme=dark&hide_border=true" alt="Streak Stats" />
-  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amallal2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amallal2004&theme=tokyo-night" width="100%"/>
 
----
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=amallal2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-## 🎯 Goals & Learning Path
-- Continue mastering both frontend and backend technologies.
-- Contribute more to open-source projects.
-- Experiment with new frameworks and design trends.
-- Grow and collaborate with the developer community.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amallal2004&color=brightgreen" alt="Profile Views" />
-</p>
-
-<!-- Proudly created with [GPRM](https://gprm.itsvg.in) -->
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
