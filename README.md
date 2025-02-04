@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amallal2004/your-repo/main/banner.png" alt="banner" width="100%" />
+  <img src="github-header-image.png" alt="banner" width="100%" />
 </p>
 
 <!-- Introduction with Animated Emoji -->
