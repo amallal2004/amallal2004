@@ -1,6 +1,6 @@
-<!-- Header Banner (Optional) -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-link-here.com/banner.png" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/amallal2004/your-repo/main/banner.png" alt="banner" width="100%" />
 </p>
 
 <!-- Introduction with Animated Emoji -->
@@ -59,14 +59,14 @@
 - **Project Two:** A brief description of what this project does.
 - **Project Three:** A brief description of what this project does.
 
-<!-- You can add links to your projects or create a dedicated section if you have many -->
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amallal2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Temporarily removed streak stats until the service is stable
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amallal2004&theme=dark&hide_border=true" alt="Streak Stats" />
+  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amallal2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
